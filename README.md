@@ -95,7 +95,7 @@ Agents are the ones that respond to and resolve tickets.
 
 - Create as many agents as you need, Make sure you name them.
 
-- 
+- Assign your agent to a department, select their role, and the team that you want them to be on. Then create your agent. 
   
 </p>
 <br />
