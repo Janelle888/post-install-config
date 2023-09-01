@@ -109,14 +109,13 @@ Agents are the ones that respond to and resolve tickets.
 <p>
 <b> USERS </b>
 <p>
-User description
+Users are the people that we are providing support to.
 <p>
 
-  -
+  - We are going to go to Agent panel, Users, and then add new. Here is where we will create our user.
 
-  -
+  - Create your user, then select add user.
 
-  -
 </p>
 <br />
 
@@ -129,13 +128,11 @@ User description
 <p>
 <b> SLA </b>
 <p>
-sla description
+An SLA is a target for how long it should take you to resolve a specific ticket.
 <p>
 
-  -
+  - We are going to go to Admon panel, Manage, and then SLA. Here we will create 3 different levels of SLA.
 
-  -
-
-  -
+  -Select 3 different levels of SLA to use for osTicket. Then select add paln.
 </p>
 <br />
