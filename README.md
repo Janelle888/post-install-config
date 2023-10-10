@@ -8,7 +8,6 @@ In this tutorial we will outline the post-install configuration of the help desk
 
 <h2>Environments and Technologies Used</h2>
 
-- ### [YouTube: Video](https://www.youtube.com)
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
@@ -26,6 +25,8 @@ In this tutorial we will outline the post-install configuration of the help desk
 - Configure Agents (workers)
 - Configure Users (customers)
 - Configure SLA
+
+- ### [YouTube: Video](https://www.youtube.com)
 
 <h2>Configuration Steps</h2>
 
