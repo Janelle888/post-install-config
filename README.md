@@ -26,7 +26,6 @@ In this tutorial we will outline the post-install configuration of the help desk
 - Configure Users (customers)
 - Configure SLA
 
-- ### [YouTube: Video](https://www.youtube.com)
 
 <h2>Configuration Steps</h2>
 
