@@ -178,7 +178,8 @@ An SLA is a target for how long it should take you to resolve a specific ticket.
 
 ![image](https://github.com/Janelle888/post-install-config/assets/142438143/dde3dbd4-7c93-4bbb-992a-b82597353415)
 
-  -Select 3 different levels of SLA to use for osTicket. Then select add paln.
+  - Select 3 different levels of SLA to use for osTicket. Then select add paln.
+    
 </p>
 <br />
 
